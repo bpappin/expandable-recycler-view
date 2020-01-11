@@ -26,7 +26,6 @@ import static junit.framework.Assert.assertTrue;
  */
 
 @RunWith(RobolectricTestRunner.class)
-@Config(constants = BuildConfig.class, sdk = 21)
 public class GenreAdapterTest {
 
   private Context context;
